@@ -5,6 +5,7 @@ let util = require("util");
 let osu = require("node-os-utils");
 let { performance } = require("perf_hooks");
 let { sizeFormatter } = require("human-readable");
+let fetch = require("node-fetch")
 let format = sizeFormatter({
   std: "JEDEC", // 'SI' (default) | 'IEC' | 'JEDEC'
   decimalPlaces: 2,
