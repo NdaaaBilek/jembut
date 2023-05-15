@@ -6,7 +6,7 @@
 // - Contoh global.btc = 'xzRhejka'
 // - Jika sudah maka lanjutkan untuk mengubah nomor owner dan wm.
 
-global.owner = ['6281395861695']  
+global.owner = ['6285640575421']  
 global.mods = ['6281395861695'] 
 global.prems = ['6281395861695']
 global.nameowner = 'Tio'
