@@ -1,5 +1,6 @@
 require('./config')
 const {
+  useMultiFileAuthState, 
   useSingleFileAuthState,
   DisconnectReason
 } = require('@adiwajshing/baileys')
@@ -63,9 +64,8 @@ loadDatabase()
 // if (opts['cluster']) {
 //   require('./lib/cluster').Cluster()
 // }
-global.authFile = `${opts._[0] || 'sessiontxzy'}.data.json`
-global.isInit = !fs.existsSync(authFile)
-const { state, saveState } = useSingleFileAuthState(global.authFile)
+const authF = opts['single'] ? `${opts._[0] || 'rasel'}.sessi.json` : 'sessions'
+const { state, saveState, saveCreds } = opts['single'] ? await useSingleFileAuthState(authF) : await storeSystem.useMultiFileAuthState(authF)
 
 const connectionOptions = {
   printQRInTerminal: true,
