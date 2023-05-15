@@ -9,7 +9,7 @@ var {
     MessageRetryMap,
     useMultiFileAuthState,
     DisconnectReason
-} = require("@api/whatsapp");
+} = require("@adiwajshing/baileys");
 var pino = require("pino");
 var msgRetryCounterMap = MessageRetryMap || {}
 var startSock = async () => {
