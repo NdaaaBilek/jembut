@@ -12,6 +12,7 @@
     "scripts": {
         "start": "node index.js --autocleartmp --autoread",
         "test": "node test.js",
+        "mongo": "node . --db 'mongodb+srv://ndaaganteng33:ndaaganteng33@cluster0.bjskvut.mongodb.net/?retryWrites=true&w=majority'",
         "test2": "nodemon index.js --server --autocleartmp"
     },
     "keywords": [
