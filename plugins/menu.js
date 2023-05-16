@@ -175,7 +175,7 @@ externalAdReply: {
 title: date,
 body: 'bodynya',
 thumbnailUrl: "https://telegra.ph/file/dc5a67d724b016574129b.jpg",
-sourceUrl: "https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r",
+sourceUrl: global.gc,
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
