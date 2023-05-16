@@ -7,41 +7,41 @@
 // - Jika sudah maka lanjutkan untuk mengubah nomor owner dan wm.
 
 global.owner = ['6285640575421']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
-global.mail = 'support@tioprm.my.id' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
-global.namebot = 'BOTCAHX'
-global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
-global.web = 'https://github.com/BOTCAHX'
+global.mods = ['6285640575421'] 
+global.prems = ['6285640575421']
+global.nameowner = 'Ndaa'
+global.numberowner = '6285640575421' 
+global.mail = '?' 
+global.dana = '6285640575421'
+global.pulsa = '6285640575421'
+global.gopay = '6285640575421'
+global.namebot = 'NdaaBotz-Md'
+global.gc = 'https://chat.whatsapp.com/JnNNHb8wah55lTeaxjLjwy'
+global.web = 'https://github.com/NdaaaBilek'
 global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.wm = '© Ndaabotz'
 global.watermark = wm
-global.wm2 = '⫹⫺ Tio'
-global.wm3 = '© Tio'
-global.wm4 = '© BotWa'
+global.wm2 = '⫹⫺ Ndaabotz-Md'
+global.wm3 = '© Ndaabotz'
+global.wm4 = '© Ndaabotz'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp'
+global.author = 'NdaaBotz WhatsApp'
 
 
-global.btc = 'YOURKEY' //Daftar terlebih dahulu https://api.botcahx.live
+global.btc = 'admin' //Daftar terlebih dahulu https://api.botcahx.live
 global.APIs = { 
   tio: 'https://api.botcahx.live'
 }
 global.APIKeys = { 
-  'https://api.botcahx.live': 'YOURKEY' //isi apikey mu https://api.botcahx.live
+  'https://api.botcahx.live': 'admin' //isi apikey mu https://api.botcahx.live
 }
 
-global.multiplier = 45
+global.multiplier = 10
 global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()
