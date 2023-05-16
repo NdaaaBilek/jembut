@@ -728,7 +728,9 @@ module.exports = {
                                 bg: 'https://i.ibb.co/8B6Q84n/LTqHsfYS.jpg',
                                 apikey: btc
                             })
-                             this.sendFile(id, action === 'add' ? wel : lea, 'pp.jpg', text, null, false, { mentions: [user] })
+                            this.sendMessage(id, {text: text}, {mentions: [user] })
+                             //this.sendFile(id, action === 'add' ? wel : lea, 'pp.jpg', text, null, false, { mentions: [user] })
+                             //this.sendMessage(id, {text: text}, {mentions: [user] })
                         }
                     }
                 }
