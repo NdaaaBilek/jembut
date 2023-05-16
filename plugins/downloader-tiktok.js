@@ -3,7 +3,7 @@ let handler = async (m, {conn, text, command, usedPrefix}) => {
     if (!text) throw `Masukkan Link Tiktok!`
     let res = await tiktok(text)
     conn.sendFile(m.chat, res.play, null, null, m)
-    conn.sendFile(m.chat, res.music. null, null, m)
+    conn.sendFile(m.chat, res.music, null, null, m)
 }
 handler.help = ['tiktok']
 handler.command = /^(tiktok|tt|tiktokdl|tiktoknowm|dltt)$/i
