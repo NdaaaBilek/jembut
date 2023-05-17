@@ -11,32 +11,12 @@
 
 - -  Selebihnya tambah sendiri fitur nya karena ini cuma base.
 
-- Free apikey hanya 100 limit per day jika ingin memiliki limit lebih silahkan registrasi terlebih dahulu, lalu chat bot saya [wa.me/6281395861695](http://wa.me/62813958616951?text=.claimtrial )
-
-+ Register Here [`Link`](https://api.botcahx.live)
-
-- Setelah mendapat key paste di config.js di baris global.btc
-
 ## Support
 
 <a href="https://sociabuzz.com/tioclkp02" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32px" alt="Sociabuzz"></a>
 
 ## Base 
 Original base [`Link`](https://github.com/HelgaIlham/ZukaBet)
-
-## WhatsApp Bot Hosting
-> Deploy bot mudah dan cepat di panel 
- 
-- Runtime 24/7
-- No delay !
-- Server selalu up-to-date 
-**Link** 
-
-[`Panel Server`](https://www.botcahx.live)
-
-## Join Group Diskusi
-
-[![ALL BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=red)](https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r)
 
 ## Install for termux
 
