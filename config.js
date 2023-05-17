@@ -25,12 +25,12 @@ global.packname = 'Made with'
 global.author = 'NdaaBotz WhatsApp'
 
 
-global.btc = 'admin' //Daftar terlebih dahulu https://api.botcahx.live
+global.btc = 'J5pX293g' //Daftar terlebih dahulu https://api.botcahx.live
 global.APIs = { 
   tio: 'https://api.botcahx.live'
 }
 global.APIKeys = { 
-  'https://api.botcahx.live': 'admin' //isi apikey mu https://api.botcahx.live
+  'https://api.botcahx.live': 'J5pX293g' //isi apikey mu https://api.botcahx.live
 }
 
 global.multiplier = 10
