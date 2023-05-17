@@ -1,5 +1,5 @@
 let handler  = async (m, { conn, text }) => {
-  let chats = Object.keys(await conn.chats)
+  let chats = Object.keys(await conn.groupFetchAllParticipating())
   conn.reply(m.chat, `_Mengirim pesan broadcast ke ${chats.length} chat_`, m)
   for (let id of chats) {
        conn.relayMessage(id,  {
