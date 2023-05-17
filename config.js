@@ -1,11 +1,3 @@
-
-// - Ubah nomor owner dan wm di sini.
-// + Daftar apikey terlebih dahulu sebelum menggunakan svript ini link
-  // https://api.botcahx.live
-// - Jika sudah mendaftar salin key yang ada di profie dan paste di global.btc
-// - Contoh global.btc = 'xzRhejka'
-// - Jika sudah maka lanjutkan untuk mengubah nomor owner dan wm.
-
 global.owner = ['6285640575421', '6285711537991', '62856010392515']  
 global.mods = ['6285640575421'] 
 global.prems = ['6285640575421', '6287787758538', '6285711537991', '6281368610172', '6282370999943', '6285854330889', '6283149404672', '6281320433787']
@@ -17,8 +9,8 @@ global.pulsa = '6285640575421'
 global.gopay = '6285640575421'
 global.namebot = 'NdaaBotz-Md'
 global.gc = 'https://chat.whatsapp.com/JnNNHb8wah55lTeaxjLjwy'
-global.web = 'https://github.com/NdaaaBilek'
-global.instagram = 'https://instagram.com/prm2.0'
+global.web = 'https://ndaaabotz.my.id/'
+global.instagram = 'https://ndaaabotz.my.id/'
 global.wm = '© Ndaabotz'
 global.watermark = wm
 global.wm2 = '⫹⫺ Ndaabotz-Md'
