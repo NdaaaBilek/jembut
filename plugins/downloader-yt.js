@@ -5,6 +5,7 @@ var {
 	youtubedlv2,
 	youtubedlv3
 } = require('@bochilteam/scraper')
+var fetch = require('node-fetch')
 var fs = require('fs')
 
 var handler = async (m, {
